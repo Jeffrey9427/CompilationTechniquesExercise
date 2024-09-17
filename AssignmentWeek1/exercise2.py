@@ -16,7 +16,7 @@ def print_keyword(filename):
 
     return '\n'.join(keywords)
 
-filename = "AssignmentWeek1/exercise1.py"
+filename = "exercise1.py"
 
 def menu():
     while True: 
